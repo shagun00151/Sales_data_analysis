@@ -1,6 +1,10 @@
 # Sales_data_analysis
 
 This project is an analysis of sales data of company. The data has been collected from various sources and processed using advanced data analytics techniques to extract meaningful patterns and trends. The purpose of this project is to help our company make informed business decisions based on data-driven insights.
+# REPORT OF THE ANALYSIS - 
+
+![Screenshot 2023-05-05 112636](https://user-images.githubusercontent.com/78349737/236386887-bf903bc1-9e89-4988-84f2-83192c233aa1.png)
+
 
 Data Sources
 The sales data used in this analysis was collected from multiple sources and merged in one file using pandas.
